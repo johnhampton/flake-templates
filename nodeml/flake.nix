@@ -40,6 +40,8 @@
                   packages = [
                     ocamlPackages.ocaml-lsp
 
+                    pkgs.ocamlformat
+
                     # pkgs.nodePackages.ocaml-language-server
                     pkgs.nodePackages.eslint_d
                     pkgs.nodePackages.yarn

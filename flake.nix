@@ -7,6 +7,10 @@
         path = ./typescript;
         description = "A template for typescript development";
       };
+      nodeml = {
+        path = ./nodeml;
+        description = "A template for TAN NodeML development";
+      };
     };
   };
 }

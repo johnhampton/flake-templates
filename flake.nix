@@ -7,6 +7,10 @@
         path = ./haskell;
         description = "A template for haskell development";
       };
+      javascript = {
+        path = ./javascript;
+        description = "A template for javascript development";
+      };
       nodeml = {
         path = ./nodeml;
         description = "A template for TAN NodeML development";

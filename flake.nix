@@ -7,6 +7,10 @@
         path = ./haskell;
         description = "A template for haskell development";
       };
+      helm-chart = {
+        path = ./helm-chart;
+        description = "A template for helm chart development";
+      };
       javascript = {
         path = ./javascript;
         description = "A template for javascript development";
